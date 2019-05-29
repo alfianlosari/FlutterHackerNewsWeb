@@ -5,6 +5,9 @@
 ## Description
 Flutter Hacker News Web App using Flutter for Web Technical Preview
 
+## Try it
+https://flutter-hackernews.firebaseapp.com/#/
+
 ## Requirements
 Flutter 1.5.4 SDK
 
