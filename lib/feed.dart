@@ -56,6 +56,9 @@ class MainWidgetState extends StatelessWidget {
                                         )
                                       ],
                                     ),
+                                    Padding(
+                                      padding: EdgeInsets.only(bottom: 16),
+                                    ),
                                     FlatButton(
                                       child: Text(
                                         'GitHub Repo - https://github.com/alfianlosari/flutter-hackernews',
